@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Aleksandra
+Software Testing Enthusiast | Aspiring Manual Tester 🕵️‍♀️ | Continuous Learner 📚
 
-
-
+? Currently developing my skills through the Software Development Academy course.
 
 <!--
-**AleksandraBroda/AleksandraBroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 likedin <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium"
 
