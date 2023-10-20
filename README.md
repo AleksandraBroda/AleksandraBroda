@@ -6,7 +6,7 @@ Software Testing Enthusiast 💻 | Aspiring to be Expert Manual Tester 🕵️�
 - 🌱 On a journey to become a proficient manual tester with an eye for detail
 - 📝 Committed to learning, growing, and contributing the testing community
 - 📧 How to reach me: aleksandrabrodaa@gmail.com
-- <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksandra-broda-38803128a/)[<img align="left" alt="medium"
+- <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksandra-broda-38803128a/)[<img align="left" alt="medium"
 ---
 🛠   Testing tools that I practice on:
 
